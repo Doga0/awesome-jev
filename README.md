@@ -402,6 +402,7 @@ Results belong to each project's dataset, prompts, model version, and measuremen
 - [Made with Jev](https://madewithjev.com) - Use-case directory of Jev builds, guides, and posts, with the cost and speed each author reported, plus free Jev-powered tools.
 - [jev-in-the-wild](https://github.com/Jessie-QingYu/jev-in-the-wild) - Index covering Reddit, Hacker News and YouTube alongside GitHub, with a dedicated section for limits and failed results. Data is JSON with a schema; the README is generated from it.
 - [laya.tools](https://laya.tools) - Directory of about 950 projects built on the open Laya decision model (GitHub repos, npm packages, Hugging Face models and Spaces, and demos from X), browsable by platform and use case, with a Laya vs Jev comparison; independent and not affiliated with TypeSafe or ConvAI.
+- [Jevfast](https://jevfast.com/) - Jev AI use-case directory with source-code analysis and visual explanations of what Jev decides in each analyzed project.
 
 ## Contributing
 
