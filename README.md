@@ -260,6 +260,7 @@ These projects can operate real browsers or devices when enabled. Published demo
 - [Paper Radar](https://github.com/Eliot5566/JEV-Paper-Radar) - Daily arXiv/bioRxiv radar that asks Jev one Noul per plain-English interest for every new paper, then publishes a must-read page and RSS feed from a fork-and-go GitHub Action; 501 papers judged in 33s for $0.0196, with a `calibrate` command that measures calibration on your own labels.
 - [pg-jev](https://github.com/realZachi/pg-jev) - PostgreSQL extension for semantic questions over table rows.
 - [pg_typesafe](https://github.com/giuliosmall/pg_typesafe) - Pre-alpha PostgreSQL C extension exposing Choice, Noul, Score, and batched judgments from SQL.
+- [SpotAsk](https://github.com/shiquda/SpotAsk) - Native macOS menu bar assistant where Jev picks the best destination for each question with a typed Choice, from in-app answers to web AI, desktop apps, or CLI agents; it asks for confirmation by default, with optional auto-routing when confidence is high.
 - [tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) - Classifies text-bearing PDF pages into IRS form and page-kind candidates with a confidence gate; document triage, not tax advice, and scanned pages need OCR.
 - [tiershift](https://github.com/iamvatsalpatel/tiershift) - Policy-bounded model routing for TypeScript and Python.
 - [typesafe-jev-workflow](https://github.com/GiesN/typesafe-jev-workflow) - LangGraph email-intent workflow using a typed Jev choice.
